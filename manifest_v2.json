@@ -1,0 +1,48 @@
+{
+  "item": {
+    "id": "com.ncb.blockstack",
+    "restype": "quick_app",
+    "name": "堆积木",
+    "description": "《堆积木》是一款单指一键堆叠小游戏。方块左右移动，点按落下；重叠部分保留、悬空部分切除，完美对齐可保持宽度并连击加分。塔越高速度越快，完全落空结束。免费游玩，无激活。",
+    "preview": [
+      "media/1000183323.png",
+      "media/1000183324.png",
+      "media/1000183325.png",
+      "media/1000183326.png",
+      "media/1000183327.png"
+    ],
+    "icon": "media/1000183320.png",
+    "cover": "media/1000183322.png",
+    "author": [
+      {
+        "name": "XiaoBin",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电赞助",
+      "url": "https://afdian.com/a/xiaobin893",
+      "icon": "link-simple"
+    },
+    {
+      "title": "官方QQ群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=QHTD1LQDwIKNxnKrZhx%2Fql1fRzfIQ%2BMVDzccLlUALT3doPuOpRCzBYw%2Fh0xrUGVn&busi_data=eyJncm91cENvZGUiOiIxMTI1MTYxODY1IiwidG9rZW4iOiJEQ2k3L2J3WVlVZUI1VWFhWTUyRVZFT3dIUFk1MHl4VnhrNHhpcktBeHZRMTgxVGZsYWVrWGNIZG16cWFoRXFOIiwidWluIjoiMjE2NzM1MTQzNyJ9&data=rWywW9MMp_10IY_z_oqvS8rlgPwXvVrgkO5gGrADCLvfGR6Kz8AHv5tGoBNAuOi2CRi-U1lsmjM0s8tH9RdI8w&svctype=4&tempid=h5_group_info",
+      "icon": "link"
+    }
+  ],
+  "downloads": {
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.ncb.blockstack.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.ncb.blockstack.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
